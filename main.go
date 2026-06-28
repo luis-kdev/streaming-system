@@ -16,6 +16,9 @@ func main() {
 	fmt.Println("Iniciando servidor de servicios web...")
 	fmt.Println()
 
+	// Registrar interfaz web visual
+	api.RegistrarFrontend()
+
 	// Inicia el servidor HTTP en el puerto 8080.
 	// CONCURRENCIA: cada petición web se maneja en una goroutine
 	// separada automáticamente por el paquete net/http de Go.
