@@ -3,7 +3,7 @@
 **Materia:** Programación Orientada a Objetos  
 **Estudiante:** Luis Caizatoa | luis-kdev  
 **Repositorio:** https://github.com/luis-kdev/streaming-system  
-**Fecha:** Junio 2026  
+**Fecha:** 28 Junio 2026  
 
 ---
 
